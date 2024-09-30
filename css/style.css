@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: outfit-regular;
+  src: url("../fonts/Outfit-Regular.ttf");
+}
+
+@font-face {
+  font-family: outfit-bold;
+  src: url("../fonts/Outfit-Bold.ttf");
+}
+
